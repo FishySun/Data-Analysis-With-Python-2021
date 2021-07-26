@@ -5,4 +5,4 @@ Course link : [Data Analysis With Python 2021](https://csmastersuh.github.io/dat
 
 To install required packages in Windows:  
     
-    py -m pip install wheel numpy pandas matplotlib sklearn scipy seaborn statsmodels lxml
+    py -m pip install wheel numpy pandas matplotlib sklearn scipy seaborn statsmodels lxml --upgrade
