@@ -2,6 +2,7 @@
 Course link : https://csmastersuh.github.io/data_analysis_with_python_summer_2021/index.html
 
 Required packages:
+
         "python":       "3.6",
         "numpy":        "1.13.3",
         "pandas":       "0.23.0",
